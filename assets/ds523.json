@@ -1,0 +1,30 @@
+{
+  "daticonsumi": [
+
+
+{"anno": "2011", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "83,1"},
+
+{"anno": "2010", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "83,2"},
+
+{"anno": "2009", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "85,8"},
+
+{"anno": "2008", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "84,5"},
+
+{"anno": "2007", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "81,6"},
+
+{"anno": "2006", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "82,2"},
+
+{"anno": "2005", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "81,3"},
+
+{"anno": "2004", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "80,4"},
+
+{"anno": "2003", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "87,3"},
+
+{"anno": "2002", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "90,4"},
+
+{"anno": "2001", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "91,3"},
+
+{"anno": "2000", "Tipo": "Acqua fatturata per uso domestico", "Consumo": "92,1"}
+
+]
+}
