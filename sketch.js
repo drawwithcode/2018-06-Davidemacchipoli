@@ -55,8 +55,8 @@ function setup() {
     console.log(astro);
   };
 
-  c2 = color(204, 221, 255);
-  c1 = color(0, 77, 230);
+  c1 = color(204, 221, 255);
+  c2 = color(0, 77, 230);
 
 
 }
@@ -76,7 +76,7 @@ function draw() {
     textFont('Oswald');
   text('Metri cubi di acqua fatturati per uso domestico in Italia dal 2000 al 2011', 100, 70);
 
-  textSize(14);
+  textSize(12);
 
 textStyle(NORMAL);
   textFont('Arial');
@@ -86,8 +86,8 @@ textStyle(NORMAL);
     //text('i dati dei consumi', 1020, 70);
     //text('in ordine crescente', 1020, 80);
 
-  text('Più consumi', 1255, 40);
-text('Meno consumi', 1255, 105);
+  text('Meno consumi', 1255, 40);
+text('Più consumi', 1255, 105);
 
 
 
@@ -97,7 +97,7 @@ setGradient(width/2+ 500, ygen-150, 30, 80, c1, c2, Y_AXIS);
 }
 
 
-function setGradient(x, y, w, h, c1, c2, axis) {
+function setGradient(x, y, w, h, c2, c1, axis) {
 
 
 
